@@ -9,8 +9,8 @@ def math(value1, value2):
     print('FloorDivision:', value1//value2)
 
 filePath= 'S:\\INFO8005_PY\\'
-firstfiletoread= 'CondorID_Value1.txt'
-secondfiletoread= 'CondorID_Value2.txt'
+firstfiletoread= '8685825_Value1.txt'
+secondfiletoread= '8685825_Value2.txt'
 #print(firstfiletoread)
 readfirstfile = open(filePath+ firstfiletoread, "r")
 readsecondfile = open(filePath+ secondfiletoread, "r")

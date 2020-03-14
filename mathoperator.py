@@ -7,7 +7,7 @@ def math(value1, value2):
     print('Exponent: ', value1**value2)
     print('FloorDivision:', value1//value2)
 
-CondorID_Value1 = 42
-CondorID_Value2 = 18
+C8685825_Value1 = 42
+C8685825_Value2 = 18
 
-math(CondorID_Value1, CondorID_Value2)
+math(C8685825_Value1, C8685825_Value2)
